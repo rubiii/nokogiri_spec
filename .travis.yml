@@ -1,4 +1,4 @@
-script: "bundle exec rspec inconsistency_spec.rb"
+script: "bundle exec rspec nokogiri_spec.rb"
 rvm:
   - 1.8.7
   - 1.9.2
